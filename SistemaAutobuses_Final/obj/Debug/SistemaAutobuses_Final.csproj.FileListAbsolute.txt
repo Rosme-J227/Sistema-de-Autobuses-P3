@@ -1,0 +1,5 @@
+C:\Users\marielys j\source\repos\SistemaAutobuses_Final\SistemaAutobuses_Final\obj\Debug\SistemaAutobuses_Final.csproj.AssemblyReference.cache
+C:\Users\marielys j\source\repos\SistemaAutobuses_Final\SistemaAutobuses_Final\obj\Debug\Capa_presentacion.FrmLogin.resources
+C:\Users\marielys j\source\repos\SistemaAutobuses_Final\SistemaAutobuses_Final\obj\Debug\SistemaAutobuses_Final.Properties.Resources.resources
+C:\Users\marielys j\source\repos\SistemaAutobuses_Final\SistemaAutobuses_Final\obj\Debug\SistemaAutobuses_Final.csproj.GenerateResource.cache
+C:\Users\marielys j\source\repos\SistemaAutobuses_Final\SistemaAutobuses_Final\obj\Debug\SistemaAutobuses_Final.csproj.CoreCompileInputs.cache

@@ -1,0 +1,438 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3800A4ED-0B60-4A3E-971E-45A03481471D}|Capa_negocio\\Capa_negocio.csproj|c:\\users\\marielys j\\desktop\\sistemaautobuses_final\\capa_negocio\\choferesbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3800A4ED-0B60-4A3E-971E-45A03481471D}|Capa_negocio\\Capa_negocio.csproj|solutionrelative:capa_negocio\\choferesbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C18A2B-B790-4F8B-8C4E-4044EDF1C31E}|SistemaAutobuses_Final\\Capa_Presentacion.csproj|C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\sistemaautobuses_final\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10C18A2B-B790-4F8B-8C4E-4044EDF1C31E}|SistemaAutobuses_Final\\Capa_Presentacion.csproj|solutionrelative:sistemaautobuses_final\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C18A2B-B790-4F8B-8C4E-4044EDF1C31E}|SistemaAutobuses_Final\\Capa_Presentacion.csproj|C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\sistemaautobuses_final\\frmasignaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10C18A2B-B790-4F8B-8C4E-4044EDF1C31E}|SistemaAutobuses_Final\\Capa_Presentacion.csproj|solutionrelative:sistemaautobuses_final\\frmasignaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C18A2B-B790-4F8B-8C4E-4044EDF1C31E}|SistemaAutobuses_Final\\Capa_Presentacion.csproj|C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\sistemaautobuses_final\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10C18A2B-B790-4F8B-8C4E-4044EDF1C31E}|SistemaAutobuses_Final\\Capa_Presentacion.csproj|solutionrelative:sistemaautobuses_final\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C18A2B-B790-4F8B-8C4E-4044EDF1C31E}|SistemaAutobuses_Final\\Capa_Presentacion.csproj|C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\sistemaautobuses_final\\frmrutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10C18A2B-B790-4F8B-8C4E-4044EDF1C31E}|SistemaAutobuses_Final\\Capa_Presentacion.csproj|solutionrelative:sistemaautobuses_final\\frmrutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C18A2B-B790-4F8B-8C4E-4044EDF1C31E}|SistemaAutobuses_Final\\Capa_Presentacion.csproj|C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\sistemaautobuses_final\\frmautobuses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10C18A2B-B790-4F8B-8C4E-4044EDF1C31E}|SistemaAutobuses_Final\\Capa_Presentacion.csproj|solutionrelative:sistemaautobuses_final\\frmautobuses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C18A2B-B790-4F8B-8C4E-4044EDF1C31E}|SistemaAutobuses_Final\\Capa_Presentacion.csproj|C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\sistemaautobuses_final\\frmchoferes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10C18A2B-B790-4F8B-8C4E-4044EDF1C31E}|SistemaAutobuses_Final\\Capa_Presentacion.csproj|solutionrelative:sistemaautobuses_final\\frmchoferes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C18A2B-B790-4F8B-8C4E-4044EDF1C31E}|SistemaAutobuses_Final\\Capa_Presentacion.csproj|C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\sistemaautobuses_final\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C18A2B-B790-4F8B-8C4E-4044EDF1C31E}|SistemaAutobuses_Final\\Capa_Presentacion.csproj|solutionrelative:sistemaautobuses_final\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C18A2B-B790-4F8B-8C4E-4044EDF1C31E}|SistemaAutobuses_Final\\Capa_Presentacion.csproj|C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\sistemaautobuses_final\\frmrutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C18A2B-B790-4F8B-8C4E-4044EDF1C31E}|SistemaAutobuses_Final\\Capa_Presentacion.csproj|solutionrelative:sistemaautobuses_final\\frmrutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C18A2B-B790-4F8B-8C4E-4044EDF1C31E}|SistemaAutobuses_Final\\Capa_Presentacion.csproj|C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\sistemaautobuses_final\\frmchoferes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C18A2B-B790-4F8B-8C4E-4044EDF1C31E}|SistemaAutobuses_Final\\Capa_Presentacion.csproj|solutionrelative:sistemaautobuses_final\\frmchoferes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C18A2B-B790-4F8B-8C4E-4044EDF1C31E}|SistemaAutobuses_Final\\Capa_Presentacion.csproj|C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\sistemaautobuses_final\\frmautobuses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C18A2B-B790-4F8B-8C4E-4044EDF1C31E}|SistemaAutobuses_Final\\Capa_Presentacion.csproj|solutionrelative:sistemaautobuses_final\\frmautobuses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C18A2B-B790-4F8B-8C4E-4044EDF1C31E}|SistemaAutobuses_Final\\Capa_Presentacion.csproj|C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\sistemaautobuses_final\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C18A2B-B790-4F8B-8C4E-4044EDF1C31E}|SistemaAutobuses_Final\\Capa_Presentacion.csproj|solutionrelative:sistemaautobuses_final\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C18A2B-B790-4F8B-8C4E-4044EDF1C31E}|SistemaAutobuses_Final\\Capa_Presentacion.csproj|C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\sistemaautobuses_final\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10C18A2B-B790-4F8B-8C4E-4044EDF1C31E}|SistemaAutobuses_Final\\Capa_Presentacion.csproj|solutionrelative:sistemaautobuses_final\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C18A2B-B790-4F8B-8C4E-4044EDF1C31E}|SistemaAutobuses_Final\\Capa_Presentacion.csproj|C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\sistemaautobuses_final\\frmasignaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C18A2B-B790-4F8B-8C4E-4044EDF1C31E}|SistemaAutobuses_Final\\Capa_Presentacion.csproj|solutionrelative:sistemaautobuses_final\\frmasignaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3800A4ED-0B60-4A3E-971E-45A03481471D}|Capa_negocio\\Capa_negocio.csproj|C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\capa_negocio\\asignacionesbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3800A4ED-0B60-4A3E-971E-45A03481471D}|Capa_negocio\\Capa_negocio.csproj|solutionrelative:capa_negocio\\asignacionesbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9862EA50-7ECE-4578-94E5-3801DFF44E24}|Capa_AccesoDatos\\Capa_AccesoDatos.csproj|C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\capa_accesodatos\\asignacionesdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9862EA50-7ECE-4578-94E5-3801DFF44E24}|Capa_AccesoDatos\\Capa_AccesoDatos.csproj|solutionrelative:capa_accesodatos\\asignacionesdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C18A2B-B790-4F8B-8C4E-4044EDF1C31E}|SistemaAutobuses_Final\\Capa_Presentacion.csproj|C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\sistemaautobuses_final\\frmusuarios.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C18A2B-B790-4F8B-8C4E-4044EDF1C31E}|SistemaAutobuses_Final\\Capa_Presentacion.csproj|solutionrelative:sistemaautobuses_final\\frmusuarios.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3800A4ED-0B60-4A3E-971E-45A03481471D}|Capa_negocio\\Capa_negocio.csproj|C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\capa_negocio\\usuariosbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3800A4ED-0B60-4A3E-971E-45A03481471D}|Capa_negocio\\Capa_negocio.csproj|solutionrelative:capa_negocio\\usuariosbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9862EA50-7ECE-4578-94E5-3801DFF44E24}|Capa_AccesoDatos\\Capa_AccesoDatos.csproj|C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\capa_accesodatos\\usuariosdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9862EA50-7ECE-4578-94E5-3801DFF44E24}|Capa_AccesoDatos\\Capa_AccesoDatos.csproj|solutionrelative:capa_accesodatos\\usuariosdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C18A2B-B790-4F8B-8C4E-4044EDF1C31E}|SistemaAutobuses_Final\\Capa_Presentacion.csproj|C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\sistemaautobuses_final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C18A2B-B790-4F8B-8C4E-4044EDF1C31E}|SistemaAutobuses_Final\\Capa_Presentacion.csproj|solutionrelative:sistemaautobuses_final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C18A2B-B790-4F8B-8C4E-4044EDF1C31E}|SistemaAutobuses_Final\\Capa_Presentacion.csproj|C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\sistemaautobuses_final\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C18A2B-B790-4F8B-8C4E-4044EDF1C31E}|SistemaAutobuses_Final\\Capa_Presentacion.csproj|solutionrelative:sistemaautobuses_final\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C18A2B-B790-4F8B-8C4E-4044EDF1C31E}|SistemaAutobuses_Final\\Capa_Presentacion.csproj|C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\sistemaautobuses_final\\frmrutas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C18A2B-B790-4F8B-8C4E-4044EDF1C31E}|SistemaAutobuses_Final\\Capa_Presentacion.csproj|solutionrelative:sistemaautobuses_final\\frmrutas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3800A4ED-0B60-4A3E-971E-45A03481471D}|Capa_negocio\\Capa_negocio.csproj|C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\capa_negocio\\rutasbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3800A4ED-0B60-4A3E-971E-45A03481471D}|Capa_negocio\\Capa_negocio.csproj|solutionrelative:capa_negocio\\rutasbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C18A2B-B790-4F8B-8C4E-4044EDF1C31E}|SistemaAutobuses_Final\\Capa_Presentacion.csproj|C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\sistemaautobuses_final\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C18A2B-B790-4F8B-8C4E-4044EDF1C31E}|SistemaAutobuses_Final\\Capa_Presentacion.csproj|solutionrelative:sistemaautobuses_final\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9862EA50-7ECE-4578-94E5-3801DFF44E24}|Capa_AccesoDatos\\Capa_AccesoDatos.csproj|C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\capa_accesodatos\\rutasdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9862EA50-7ECE-4578-94E5-3801DFF44E24}|Capa_AccesoDatos\\Capa_AccesoDatos.csproj|solutionrelative:capa_accesodatos\\rutasdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9862EA50-7ECE-4578-94E5-3801DFF44E24}|Capa_AccesoDatos\\Capa_AccesoDatos.csproj|C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\capa_accesodatos\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9862EA50-7ECE-4578-94E5-3801DFF44E24}|Capa_AccesoDatos\\Capa_AccesoDatos.csproj|solutionrelative:capa_accesodatos\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChoferesBL.cs",
+              "DocumentMoniker": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\Capa_negocio\\ChoferesBL.cs",
+              "RelativeDocumentMoniker": "Capa_negocio\\ChoferesBL.cs",
+              "ToolTip": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\Capa_negocio\\ChoferesBL.cs",
+              "RelativeToolTip": "Capa_negocio\\ChoferesBL.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T03:52:16.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\SistemaAutobuses_Final\\FrmUsuarios.cs",
+              "RelativeDocumentMoniker": "SistemaAutobuses_Final\\FrmUsuarios.cs",
+              "ToolTip": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\SistemaAutobuses_Final\\FrmUsuarios.cs",
+              "RelativeToolTip": "SistemaAutobuses_Final\\FrmUsuarios.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAewKEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T00:04:15.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmChoferes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\SistemaAutobuses_Final\\FrmChoferes.cs",
+              "RelativeDocumentMoniker": "SistemaAutobuses_Final\\FrmChoferes.cs",
+              "ToolTip": "C:\\Users\\marielys j\\source\\repos\\SistemaAutobuses_Final\\SistemaAutobuses_Final\\FrmChoferes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\source\\repos\\SistemaAutobuses_Final\\SistemaAutobuses_Final\\FrmChoferes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T18:50:11.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmAutobuses.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\SistemaAutobuses_Final\\FrmAutobuses.cs",
+              "RelativeDocumentMoniker": "SistemaAutobuses_Final\\FrmAutobuses.cs",
+              "ToolTip": "C:\\Users\\marielys j\\source\\repos\\SistemaAutobuses_Final\\SistemaAutobuses_Final\\FrmAutobuses.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\source\\repos\\SistemaAutobuses_Final\\SistemaAutobuses_Final\\FrmAutobuses.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T19:02:29.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmRutas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\SistemaAutobuses_Final\\FrmRutas.cs",
+              "RelativeDocumentMoniker": "SistemaAutobuses_Final\\FrmRutas.cs",
+              "ToolTip": "C:\\Users\\marielys j\\source\\repos\\SistemaAutobuses_Final\\SistemaAutobuses_Final\\FrmRutas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\source\\repos\\SistemaAutobuses_Final\\SistemaAutobuses_Final\\FrmRutas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T19:06:24.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmMenuPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\SistemaAutobuses_Final\\FrmMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "SistemaAutobuses_Final\\FrmMenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\marielys j\\source\\repos\\SistemaAutobuses_Final\\SistemaAutobuses_Final\\FrmMenuPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\source\\repos\\SistemaAutobuses_Final\\SistemaAutobuses_Final\\FrmMenuPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T18:46:20.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmUsuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\SistemaAutobuses_Final\\FrmUsuarios.cs",
+              "RelativeDocumentMoniker": "SistemaAutobuses_Final\\FrmUsuarios.cs",
+              "ToolTip": "C:\\Users\\marielys j\\source\\repos\\SistemaAutobuses_Final\\SistemaAutobuses_Final\\FrmUsuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\source\\repos\\SistemaAutobuses_Final\\SistemaAutobuses_Final\\FrmUsuarios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T19:12:06.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmAsignaciones.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\SistemaAutobuses_Final\\FrmAsignaciones.cs",
+              "RelativeDocumentMoniker": "SistemaAutobuses_Final\\FrmAsignaciones.cs",
+              "ToolTip": "C:\\Users\\marielys j\\source\\repos\\SistemaAutobuses_Final\\SistemaAutobuses_Final\\FrmAsignaciones.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\source\\repos\\SistemaAutobuses_Final\\SistemaAutobuses_Final\\FrmAsignaciones.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T19:09:15.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmRutas.cs",
+              "DocumentMoniker": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\SistemaAutobuses_Final\\FrmRutas.cs",
+              "RelativeDocumentMoniker": "SistemaAutobuses_Final\\FrmRutas.cs",
+              "ToolTip": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\SistemaAutobuses_Final\\FrmRutas.cs",
+              "RelativeToolTip": "SistemaAutobuses_Final\\FrmRutas.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAewIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T19:06:40.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmChoferes.cs",
+              "DocumentMoniker": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\SistemaAutobuses_Final\\FrmChoferes.cs",
+              "RelativeDocumentMoniker": "SistemaAutobuses_Final\\FrmChoferes.cs",
+              "ToolTip": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\SistemaAutobuses_Final\\FrmChoferes.cs",
+              "RelativeToolTip": "SistemaAutobuses_Final\\FrmChoferes.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAewJ8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T00:37:57.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmAutobuses.cs",
+              "DocumentMoniker": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\SistemaAutobuses_Final\\FrmAutobuses.cs",
+              "RelativeDocumentMoniker": "SistemaAutobuses_Final\\FrmAutobuses.cs",
+              "ToolTip": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\SistemaAutobuses_Final\\FrmAutobuses.cs",
+              "RelativeToolTip": "SistemaAutobuses_Final\\FrmAutobuses.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAewJUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T00:44:14.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmMenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\SistemaAutobuses_Final\\FrmMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "SistemaAutobuses_Final\\FrmMenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\SistemaAutobuses_Final\\FrmMenuPrincipal.cs",
+              "RelativeToolTip": "SistemaAutobuses_Final\\FrmMenuPrincipal.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAMwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T00:06:57.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\SistemaAutobuses_Final\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "SistemaAutobuses_Final\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\marielys j\\source\\repos\\SistemaAutobuses_Final\\SistemaAutobuses_Final\\FrmLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\source\\repos\\SistemaAutobuses_Final\\SistemaAutobuses_Final\\FrmLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T18:11:51.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AsignacionesDAL.cs",
+              "DocumentMoniker": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\Capa_AccesoDatos\\AsignacionesDAL.cs",
+              "RelativeDocumentMoniker": "Capa_AccesoDatos\\AsignacionesDAL.cs",
+              "ToolTip": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\Capa_AccesoDatos\\AsignacionesDAL.cs",
+              "RelativeToolTip": "Capa_AccesoDatos\\AsignacionesDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T18:20:33.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AsignacionesBL.cs",
+              "DocumentMoniker": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\Capa_negocio\\AsignacionesBL.cs",
+              "RelativeDocumentMoniker": "Capa_negocio\\AsignacionesBL.cs",
+              "ToolTip": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\Capa_negocio\\AsignacionesBL.cs",
+              "RelativeToolTip": "Capa_negocio\\AsignacionesBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T16:19:53.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmUsuarios.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\SistemaAutobuses_Final\\FrmUsuarios.Designer.cs",
+              "RelativeDocumentMoniker": "SistemaAutobuses_Final\\FrmUsuarios.Designer.cs",
+              "ToolTip": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\SistemaAutobuses_Final\\FrmUsuarios.Designer.cs",
+              "RelativeToolTip": "SistemaAutobuses_Final\\FrmUsuarios.Designer.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T19:13:08.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmAsignaciones.cs",
+              "DocumentMoniker": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\SistemaAutobuses_Final\\FrmAsignaciones.cs",
+              "RelativeDocumentMoniker": "SistemaAutobuses_Final\\FrmAsignaciones.cs",
+              "ToolTip": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\SistemaAutobuses_Final\\FrmAsignaciones.cs",
+              "RelativeToolTip": "SistemaAutobuses_Final\\FrmAsignaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T16:20:33.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UsuariosBL.cs",
+              "DocumentMoniker": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\Capa_negocio\\UsuariosBL.cs",
+              "RelativeDocumentMoniker": "Capa_negocio\\UsuariosBL.cs",
+              "ToolTip": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\Capa_negocio\\UsuariosBL.cs",
+              "RelativeToolTip": "Capa_negocio\\UsuariosBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T22:11:13.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UsuariosDAL.cs",
+              "DocumentMoniker": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\Capa_AccesoDatos\\UsuariosDAL.cs",
+              "RelativeDocumentMoniker": "Capa_AccesoDatos\\UsuariosDAL.cs",
+              "ToolTip": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\Capa_AccesoDatos\\UsuariosDAL.cs",
+              "RelativeToolTip": "Capa_AccesoDatos\\UsuariosDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T18:22:30.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\SistemaAutobuses_Final\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaAutobuses_Final\\Program.cs",
+              "ToolTip": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\SistemaAutobuses_Final\\Program.cs",
+              "RelativeToolTip": "SistemaAutobuses_Final\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T19:24:37.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\SistemaAutobuses_Final\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "SistemaAutobuses_Final\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\SistemaAutobuses_Final\\FrmLogin.cs",
+              "RelativeToolTip": "SistemaAutobuses_Final\\FrmLogin.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAMwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T20:30:26.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmRutas.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\SistemaAutobuses_Final\\FrmRutas.Designer.cs",
+              "RelativeDocumentMoniker": "SistemaAutobuses_Final\\FrmRutas.Designer.cs",
+              "ToolTip": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\SistemaAutobuses_Final\\FrmRutas.Designer.cs",
+              "RelativeToolTip": "SistemaAutobuses_Final\\FrmRutas.Designer.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAuwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T19:07:26.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RutasBL.cs",
+              "DocumentMoniker": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\Capa_negocio\\RutasBL.cs",
+              "RelativeDocumentMoniker": "Capa_negocio\\RutasBL.cs",
+              "ToolTip": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\Capa_negocio\\RutasBL.cs",
+              "RelativeToolTip": "Capa_negocio\\RutasBL.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAiwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T18:28:55.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FrmLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\SistemaAutobuses_Final\\FrmLogin.Designer.cs",
+              "RelativeDocumentMoniker": "SistemaAutobuses_Final\\FrmLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\SistemaAutobuses_Final\\FrmLogin.Designer.cs",
+              "RelativeToolTip": "SistemaAutobuses_Final\\FrmLogin.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T18:37:04.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RutasDAL.cs",
+              "DocumentMoniker": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\Capa_AccesoDatos\\RutasDAL.cs",
+              "RelativeDocumentMoniker": "Capa_AccesoDatos\\RutasDAL.cs",
+              "ToolTip": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\Capa_AccesoDatos\\RutasDAL.cs",
+              "RelativeToolTip": "Capa_AccesoDatos\\RutasDAL.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T18:19:47.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\Capa_AccesoDatos\\DataAccess.cs",
+              "RelativeDocumentMoniker": "Capa_AccesoDatos\\DataAccess.cs",
+              "ToolTip": "C:\\Users\\marielys j\\Desktop\\SistemaAutobuses_Final\\Capa_AccesoDatos\\DataAccess.cs",
+              "RelativeToolTip": "Capa_AccesoDatos\\DataAccess.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T18:16:27.82Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
